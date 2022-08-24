@@ -1,14 +1,14 @@
 {
-    "name": "XRay",
-    "description": "Deploy Xray on Heroku.",
-    "keywords": ["XRay"],
+    "name": "blog",
+    "description": "My new blog",
+    "keywords": ["blog"],
     "env": {
         "UUID": {
-            "description": "XRay UUID",
-            "value": "24b4b1e1-7a89-45f6-858c-242cf53b5bdb"
+            "description": "UUID",
+            "value": "c9adfb3d-2e29-4a49-be16-1e5963f893e5"
         }
     },
-    "website": "https://github.com/Lbingyi/Xray-Heroku",
-    "repository": "https://github.com/Lbingyi/Xray-Heroku",
+    "website": "https://github.com/herokumjj123/blog",
+    "repository": "https://github.com/herokumjj123/blog",
     "stack": "container"
 }
